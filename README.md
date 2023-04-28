@@ -1,6 +1,5 @@
-# tributePage
-First project ever created when started learning on freecodecamp.org
-This is the first thing I was ever able to create and though it is not
-the best website out there, it is something that I am really proud of and
-like to show where I come from and how progress is something I always
-strive for.
+# trafficLight
+First ever JavaScript project 
+This project was my first attempt at JavaScript trying to showcase what I know for a class
+The project is simple, you see a traffic light on the screen and with JS you are able to 
+change the color of the light. Progress can always be achieved with dedication.
